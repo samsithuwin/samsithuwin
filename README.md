@@ -1,5 +1,5 @@
 - 👋 I’m Sam Who I am
-- 👀 I’m interested in Bigs including not limited ( histoyr, data, bang, etc...)
+- 👀 I’m interested in Bigs including not limited ( histoyr, data, bang, dreams, etc...)
 - 🌱 I’m currently learning SwiftUI, SQLite, XCode, GitHub, 
 - 💞️ I’m looking to collaborate on pretty looking good persons. Beatuy is in the eyes of the beholders.
 - 📫 How to reach me via email @2NYCHome@gmail.com
